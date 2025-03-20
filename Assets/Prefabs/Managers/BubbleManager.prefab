@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &111599136987363461
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4129539290474602698}
+  - component: {fileID: 2051758147067889456}
+  m_Layer: 0
+  m_Name: BubbleManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4129539290474602698
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 111599136987363461}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.001215, y: -3.470274, z: 11.330434}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2051758147067889456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 111599136987363461}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8f1629131fbe924e94561ba016dab72, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 64
+  bubblePrefab: {fileID: 899293602174220225, guid: ba10c6725d1ed154ca6b7d7f346c72a7, type: 3}
+  bubbleTypeList:
+  - bubbleID: 0
+    color: {r: 0, g: 0.32595682, b: 1, a: 1}
+    material: {fileID: 2100000, guid: a0d7dd314a76d324c91baa7a0cbe5f8c, type: 2}
+  - bubbleID: 1
+    color: {r: 0, g: 0.7190268, b: 1, a: 1}
+    material: {fileID: 2100000, guid: eb8e80d8dc8c66a4dbbf24cc4ab850ed, type: 2}
+  - bubbleID: 2
+    color: {r: 1, g: 0.22207561, b: 0, a: 1}
+    material: {fileID: 2100000, guid: 852bc70c0092d2f41832a3414994a26d, type: 2}
+  - bubbleID: 3
+    color: {r: 1, g: 0.9227443, b: 0.0754717, a: 1}
+    material: {fileID: 2100000, guid: 2d4848571c736e44285df50e4118398d, type: 2}
+  - bubbleID: 4
+    color: {r: 1, g: 0.42352942, b: 0.8233118, a: 1}
+    material: {fileID: 2100000, guid: cd7e7ee2c9afdad419ed0bcff499afed, type: 2}
+  - bubbleID: 5
+    color: {r: 0, g: 1, b: 0.3882353, a: 1}
+    material: {fileID: 2100000, guid: d3f2753e33dec5d4496dd8d5e69443a6, type: 2}

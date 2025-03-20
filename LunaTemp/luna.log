@@ -1,0 +1,302 @@
+report@config:load 27.63
+Authorized using stored user info.
+report@account:authorize 7.86
+stderr: 'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exporting assets from Unity................................
+
+[ Stage1 ] Assets exported from Unity and staged for further processing
+report@unity:export 29325.47
+report@config:load 26.90
+Using C:/UnityProjects/Playables/BOBubble-PA/BOBubble-PA/Assets/TextMesh Pro/Fonts/LiberationSans.ttf file to generate an atlas for LiberationSans[23904] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Combined 97 glyphs into bitmap texture at C:/UnityProjects/Playables/BOBubble-PA/BOBubble-PA/LunaTemp/stage1/tmp/fonts/LiberationSans-23904/output_0.png (56kb)
+Found custom rules for texture Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  {"maxWidth":512,"maxHeight":512,"format":"png32","compression":"none","quality":65,"script":"","ext":"","name":"Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset","isOverride":true}
+Resources:
+{}
+report@assets:stage2 2088.81
+report@assets:stage3 474.42
+[ Stage2 ] Assets postprocessed and bundled successfully
+report@config:unity 0.19
+report@config:load 17.42
+report@config:unity 0.04
+﻿
+[ error ] $﻿
+Diagnostics gathered successfully
+.NET Core 3 runtime not found.
+.NET Core 3 runtime not found.
+Microsoft (R) Visual C# Compiler version 4.3.1-3.22526.13 (41a5af9d)
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\Bubble.cs(51,43): warning CS0649: Field 'Bubble.nearbyBubblesList' is never assigned to, and will always have its default value null
+
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Level\Level.cs(18,46): warning CS0649: Field 'Level.phaseDataList' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\Bubble.cs(42,39): warning CS0649: Field 'Bubble.animator' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Shoot.cs(7,32): warning CS0649: Field 'Shoot.rb' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\BubbleManager.cs(16,40): warning CS0649: Field 'BubbleManager.bubblePrefab' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Level\Level.cs(19,36): warning CS0649: Field 'Level.bubbleAnimOffset' is never assigned to, and will always have its default value 0
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Shoot.cs(11,39): warning CS0649: Field 'Shoot.camAnimator02' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Level\Level.cs(16,37): warning CS0649: Field 'Level.conceptName' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\Bubble.cs(28,42): warning CS0649: Field 'Bubble.boxCollider' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\Bubble.cs(36,39): warning CS0649: Field 'Bubble.phaseNumberText' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\Bubble.cs(38,39): warning CS0649: Field 'Bubble.orderNumberText' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Manager\UIManager.cs(8,37): warning CS0649: Field 'UIManager.btnBlue' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Shoot.cs(10,39): warning CS0649: Field 'Shoot.camAnimator01' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\Bubble.cs(34,40): warning CS0649: Field 'Bubble.canvasTransform' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Level\Level.cs(24,40): warning CS0649: Field 'Level.bubblesHolderTransform' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Level\Level.cs(22,43): warning CS0649: Field 'Level.levelBubblesList' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Level\LevelManager.cs(13,50): warning CS0169: The field 'LevelManager.levelSelector' is never used
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Manager\ChainEventsManager.cs(16,36): warning CS0649: Field 'ChainEventsManager.delayBeforeDestroy' is never assigned to, and will always have its default value 0
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\Bubble.cs(44,40): warning CS0649: Field 'Bubble.bubbleVisualTransform' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\BubbleManager.cs(15,40): warning CS0649: Field 'BubbleManager.layerMask' is never assigned to, and will always have its default value 
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\Bubble.cs(40,40): warning CS0649: Field 'Bubble.rb' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Manager\ChainEventsManager.cs(15,36): warning CS0649: Field 'ChainEventsManager.delayBeforeNextPhase' is never assigned to, and will always have its default value 0
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\Bubble.cs(30,39): warning CS0649: Field 'Bubble.rendererBubble' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\Bubble.cs(58,36): warning CS0169: The field 'Bubble.color' is never used
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Shoot.cs(9,37): warning CS0649: Field 'Shoot.targetBubble' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Utils\Timer.cs(20,15): warning CS0169: The field 'TimerMonobehaviour.timerMax' is never used
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\BubbleManager.cs(17,47): warning CS0649: Field 'BubbleManager.bubbleTypeList' is never assigned to, and will always have its default value null
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\Bubble.cs(55,35): warning CS0414: The field 'Bubble.isSelected' is assigned but its value is never used
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Bubble\Bubble.cs(61,17): warning CS0414: The field 'Bubble.selectedCheck' is assigned but its value is never used
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Assets\Scripts\Utils\Timer.cs(19,15): warning CS0414: The field 'TimerMonobehaviour.timerMin' is assigned but its value is never used
+
+Usercode compiled successfully!
+.NET Core 3 runtime not found.
+.NET Core 3 runtime not found.
+code-v2:compose complete successfully!
+report@code-v2:compose 0.20
+Authorized using stored user info.
+report@account:authorize 4.41
+MSBuild version 17.12.12+1cce77968 for .NET Framework
+
+Build started 3/1/2025 3:44:31 PM.
+
+
+
+Project "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" on node 1 (Rebuild target(s)).
+CoreClean:
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb".
+
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+
+CoreCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2022;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2022_3;UNITY_2022_3_55 /highentropyva+ /reference:"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll" /reference:"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" /reference:"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" /reference:"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll" /reference:"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" /reference:"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" /reference:"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" /reference:"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" /reference:"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" /reference:"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll" /reference:"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" /reference:"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" /reference:"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /warnaserror- /utf8output /langversion:8 C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\AnimationHandler.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\BubbleID.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\BubbleManager.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\BubbleType.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\ButtonTypes.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\ChainEventsManager.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenCYInstruction.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenModuleAudio.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenModulePhysics.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenModulePhysics2D.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenModuleSprite.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenModuleUI.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenModuleUnityVersion.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\DG\Tweening\DOTweenModuleUtils.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\EpicToonFX\ETFXButtonScript.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\EpicToonFX\ETFXFireProjectile.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\EpicToonFX\ETFXLightFade.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\EpicToonFX\ETFXLoopScript.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\EpicToonFX\ETFXMouseOrbit.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\EpicToonFX\ETFXPitchRandomizer.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\Luna
+Temp\Assemblies\stage_2\decompiled\EpicToonFX\ETFXRotation.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\ETFXProjectileScript.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\ETFXSceneManager.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\FunctionTimer.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\GameEventsManager.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\GameEventType.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\GameInputManager.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\GameSceneManager.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Level.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\LevelManager.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\LevelSelector.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\ParticleEffectsLibrary.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\PA\Timer.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\PA\TimerMonobehaviour.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\PA\Utils.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\PEButtonScript.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\PEDestoryTimed.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\PhaseData.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Properties\AssemblyInfo.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Shoot.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\UICanvasManager.cs C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\UIManager.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(21,22): warning CS0649: Field 'Bubble.boxCollider' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\BubbleManager.cs(10,20): warning CS0649: Field 'BubbleManager.bubblePrefab' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Shoot.cs(6,20): warning CS0649: Field 'Shoot.rb' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\LevelManager.cs(10,30): warning CS0169: The field 'LevelManager.levelSelector' is never used [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\ChainEventsManager.cs(16,16): warning CS0649: Field 'ChainEventsManager.delayBeforeNextPhase' is never assigned to, and will always have its default value 0 [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\UIManager.cs(7,17): warning CS0649: Field 'UIManager.btnBlue' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Level.cs(10,26): warning CS0649: Field 'Level.phaseDataList' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(36,19): warning CS0649: Field 'Bubble.orderNumberText' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Shoot.cs(12,17): warning CS0649: Field 'Shoot.targetBubble' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\PA\TimerMonobehaviour.cs(9,17): warning CS0169: The field 'TimerMonobehaviour.timerMax' is never used [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(75,16): warning CS0169: The field 'Bubble.color' is never used [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(60,23): warning CS0649: Field 'Bubble.nearbyBubblesList' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Shoot.cs(18,19): warning CS0649: Field 'Shoot.camAnimator02' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\BubbleManager.cs(7,20): warning CS0649: Field 'BubbleManager.layerMask' is never assigned to, and will always have its default value [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Level.cs(22,20): warning CS0649: Field 'Level.bubblesHolderTransform' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Level.cs(13,16): warning CS0649: Field 'Level.bubbleAnimOffset' is never assigned to, and will always have its default value 0 [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(42,19): warning CS0649: Field 'Bubble.animator' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Level.cs(7,17): warning CS0649: Field 'Level.conceptName' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\BubbleManager.cs(13,27): warning CS0649: Field 'BubbleManager.bubbleTypeList' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\ChainEventsManager.cs(19,16): warning CS0649: Field 'ChainEventsManager.delayBeforeDestroy' is never assigned to, and will always have its default value 0 [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Level.cs(19,23): warning CS0649: Field 'Level.levelBubblesList' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(30,20): warning CS0649: Field 'Bubble.canvasTransform' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(33,19): warning CS0649: Field 'Bubble.phaseNumberText' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Shoot.cs(15,19): warning CS0649: Field 'Shoot.camAnimator01' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(45,20): warning CS0649: Field 'Bubble.bubbleVisualTransform' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(24,19): warning CS0649: Field 'Bubble.rendererBubble' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(39,20): warning CS0649: Field 'Bubble.rb' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\PA\TimerMonobehaviour.cs(7,17): warning CS0414: The field 'TimerMonobehaviour.timerMin' is assigned but its value is never used [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(80,14): warning CS0414: The field 'Bubble.selectedCheck' is assigned but its value is never used [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(66,15): warning CS0414: The field 'Bubble.isSelected' is assigned but its value is never used [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templat
+es\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - Scripts
+
+_CopyFilesMarkedCopyLocal:
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.xml" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Creating "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date" because "AlwaysCreate" was specified.
+
+  Touching "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date".
+
+CopyFilesToOutputDirectory:
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Scripts -> C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Copying file from "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" to "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+Done Building Project "C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target(s)).
+
+
+Build succeeded.
+
+
+
+"C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target) (1) ->
+(CoreCompile target) -> 
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(21,22): warning CS0649: Field 'Bubble.boxCollider' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\BubbleManager.cs(10,20): warning CS0649: Field 'BubbleManager.bubblePrefab' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Shoot.cs(6,20): warning CS0649: Field 'Shoot.rb' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\LevelManager.cs(10,30): warning CS0169: The field 'LevelManager.levelSelector' is never used [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\ChainEventsManager.cs(16,16): warning CS0649: Field 'ChainEventsManager.delayBeforeNextPhase' is never assigned to, and will always have its default value 0 [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\UIManager.cs(7,17): warning CS0649: Field 'UIManager.btnBlue' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Level.cs(10,26): warning CS0649: Field 'Level.phaseDataList' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(36,19): warning CS0649: Field 'Bubble.orderNumberText' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Shoot.cs(12,17): warning CS0649: Field 'Shoot.targetBubble' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\PA\TimerMonobehaviour.cs(9,17): warning CS0169: The field 'TimerMonobehaviour.timerMax' is never used [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(75,16): warning CS0169: The field 'Bubble.color' is never used [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(60,23): warning CS0649: Field 'Bubble.nearbyBubblesList' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Shoot.cs(18,19): warning CS0649: Field 'Shoot.camAnimator02' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\BubbleManager.cs(7,20): warning CS0649: Field 'BubbleManager.layerMask' is never assigned to, and will always have its default value [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Level.cs(22,20): warning CS0649: Field 'Level.bubblesHolderTransform' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Level.cs(13,16): warning CS0649: Field 'Level.bubbleAnimOffset' is never assigned to, and will always have its default value 0 [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(42,19): warning CS0649: Field 'Bubble.animator' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Level.cs(7,17): warning CS0649: Field 'Level.conceptName' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\BubbleManager.cs(13,27): warning CS0649: Field 'BubbleManager.bubbleTypeList' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\ChainEventsManager.cs(19,16): warning CS0649: Field 'ChainEventsManager.delayBeforeDestroy' is never assigned to, and will always have its default value 0 [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Level.cs(19,23): warning CS0649: Field 'Level.levelBubblesList' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables
+\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(30,20): warning CS0649: Field 'Bubble.canvasTransform' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(33,19): warning CS0649: Field 'Bubble.phaseNumberText' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Shoot.cs(15,19): warning CS0649: Field 'Shoot.camAnimator01' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(45,20): warning CS0649: Field 'Bubble.bubbleVisualTransform' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(24,19): warning CS0649: Field 'Bubble.rendererBubble' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(39,20): warning CS0649: Field 'Bubble.rb' is never assigned to, and will always have its default value null [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\PA\TimerMonobehaviour.cs(7,17): warning CS0414: The field 'TimerMonobehaviour.timerMin' is assigned but its value is never used [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(80,14): warning CS0414: The field 'Bubble.selectedCheck' is assigned but its value is never used [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  C:\UnityProjects\Playables\BOBubble-PA\BOBubble-PA\LunaTemp\Assemblies\stage_2\decompiled\Bubble.cs(66,15): warning CS0414: The field 'Bubble.isSelected' is assigned but its value is never used [C:\Creative Space\Tools\Playables\Luna\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+    30 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:06.25
+
+Source code compiled successfully!
+﻿
+[ error ] $﻿
+Diagnostics gathered successfully
+report@code:build 8662.71
+report@diagnostics:verify 0.38
+report@diagnostics:upload 1354.16
+report@code:stage 9798.75
+[ Stage3 ] Code compiled and bundled successfully.
+report@code:bundle 24176.97
+report@package:stage 766.11
+[ Stage4 ] Target platform: develop
+[ Stage4 ] Package bundled successfully
+report@assets:stats 0.10

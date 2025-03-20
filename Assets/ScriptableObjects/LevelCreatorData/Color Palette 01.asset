@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bfcbb105a24cc545b009264077d8790, type: 3}
+  m_Name: Color Palette 01
+  m_EditorClassIdentifier: 
+  bubbleTypeList:
+  - bubbleID: 0
+    color: {r: 0, g: 0.3254902, b: 1, a: 1}
+    material: {fileID: 2100000, guid: a0d7dd314a76d324c91baa7a0cbe5f8c, type: 2}
+  - bubbleID: 1
+    color: {r: 0, g: 0.7176471, b: 1, a: 1}
+    material: {fileID: 2100000, guid: eb8e80d8dc8c66a4dbbf24cc4ab850ed, type: 2}
+  - bubbleID: 2
+    color: {r: 1, g: 0.22352943, b: 0, a: 1}
+    material: {fileID: 2100000, guid: 852bc70c0092d2f41832a3414994a26d, type: 2}
+  - bubbleID: 3
+    color: {r: 1, g: 0.9215687, b: 0.07450981, a: 1}
+    material: {fileID: 2100000, guid: 2d4848571c736e44285df50e4118398d, type: 2}
+  - bubbleID: 4
+    color: {r: 1, g: 0.42352945, b: 0.8235295, a: 1}
+    material: {fileID: 2100000, guid: cd7e7ee2c9afdad419ed0bcff499afed, type: 2}
+  - bubbleID: 5
+    color: {r: 0, g: 1, b: 0.38823533, a: 1}
+    material: {fileID: 2100000, guid: d3f2753e33dec5d4496dd8d5e69443a6, type: 2}
